@@ -1,0 +1,1 @@
+This project investigates algorithms for improving CAD system performance, focusing on geometry and constraint solving. It provides a modular setup for testing robustness and feature recognition in real-world scenarios.
